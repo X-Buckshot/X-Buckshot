@@ -16,10 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/x.buckshot.png)](https://tryhackme.com/p/x.buckshot)
-name: Example
-uses: yonasuriv/htb-metrics@latest
-with:
-  filename: htb-metrics.classic.png
-  token: ${{ secrets.HTB-METRICS_TOKEN }}
-  userid: 000000
-  template: default
