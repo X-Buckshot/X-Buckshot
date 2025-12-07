@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/x.buckshot.png)](https://tryhackme.com/p/x.buckshot)
-[![HackTheBox Badge](https://www.hackthebox.eu/badge/image/42767)](https://app.hackthebox.com/profile/42767)
